@@ -21,12 +21,10 @@ class GeneroAdapter(val generoLista : List<GeneroItem>):RecyclerView.Adapter<Gen
     }
 
     override fun onBindViewHolder(holder: GeneroAdapter.GeneroHolder, position: Int) {
-        TODO("Not yet implemented")
+        holder.bind(generoLista[position])
     }
 
-    override fun getItemCount(): Int {
-        TODO("Not yet implemented")
-    }
+    override fun getItemCount(): Int = generoLista.size
 
     inner class GeneroHolder(val binding : ItemGeneroBinding): RecyclerView.ViewHolder(binding.root){
         fun bind(genero: GeneroItem){
