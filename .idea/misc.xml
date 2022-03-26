@@ -6,9 +6,15 @@
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_clasificacion.xml" value="0.22" />
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_genero.xml" value="0.33" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_idioma.xml" value="0.22" />
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_nacionalidad.xml" value="0.1" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/fragment_pelicula.xml" value="0.1" />
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/item_clasificacion.xml" value="0.1" />
         <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/item_genero.xml" value="0.18" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/item_idioma.xml" value="0.1" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/item_nacionalidad.xml" value="0.1" />
+        <entry key="..\:/Users/user1/Escritorio/UCA/Peliculas/app/src/main/res/layout/item_pelicula.xml" value="0.22" />
       </map>
     </option>
   </component>

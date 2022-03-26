@@ -40,6 +40,14 @@ class MenuFragment : Fragment() {
         fBinding.BtnIdioma.setOnClickListener {
             it.findNavController().navigate(R.id.irAIdioma)
         }
+
+        fBinding.BtnNacionalidad.setOnClickListener {
+            it.findNavController().navigate(R.id.irANacionalidad)
+        }
+
+        fBinding.BtnPelicula.setOnClickListener {
+            it.findNavController().navigate(R.id.irAPelicula)
+        }
     }
 
     companion object {

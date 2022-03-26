@@ -34,13 +34,13 @@
             android:id="@+id/BtnIdioma"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_above="@+id/Nacionalidad"
+            android:layout_above="@+id/BtnNacionalidad"
             android:layout_marginBottom="20dp"
             android:text="Idioma"
             />
 
         <Button
-            android:id="@+id/Nacionalidad"
+            android:id="@+id/BtnNacionalidad"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_above="@+id/BtnPelicula"

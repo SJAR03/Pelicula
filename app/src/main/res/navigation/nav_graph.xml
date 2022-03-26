@@ -19,6 +19,12 @@
         <action
             android:id="@+id/irAIdioma"
             app:destination="@id/idiomaFragment" />
+        <action
+            android:id="@+id/irANacionalidad"
+            app:destination="@id/nacionalidadFragment" />
+        <action
+            android:id="@+id/irAPelicula"
+            app:destination="@id/peliculaFragment" />
     </fragment>
     <fragment
         android:id="@+id/clasificacionFragment"
@@ -35,4 +41,15 @@
         android:name="ni.edu.uca.peliculas.idiomaFragment"
         android:label="fragment_idioma"
         tools:layout="@layout/fragment_idioma" />
+    <fragment
+        android:id="@+id/nacionalidadFragment"
+        android:name="ni.edu.uca.peliculas.nacionalidadFragment"
+        android:label="fragment_nacionalidad"
+        tools:layout="@layout/fragment_nacionalidad" >
+    </fragment>
+    <fragment
+        android:id="@+id/peliculaFragment"
+        android:name="ni.edu.uca.peliculas.PeliculaFragment"
+        android:label="fragment_pelicula"
+        tools:layout="@layout/fragment_pelicula" />
 </navigation>
